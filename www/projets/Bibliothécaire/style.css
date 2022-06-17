@@ -1,0 +1,32 @@
+.thead-quimarchepas {
+    background-color: lightskyblue;
+}
+
+/* * {
+    background-color: violet;
+} */
+
+/* table.table-bordered{
+    border:1px solid palevioletred;
+    margin-top:20px;
+  }
+  
+
+  table.table-bordered > thead > tr > th{
+    border:2px solid palevioletred;
+}
+table.table-bordered > tbody > tr > td{
+    border:2px solid palevioletred;
+}
+
+*/
+
+.table {
+
+    border: 7px solid lightskyblue;
+}
+
+
+td {
+    font-size: smaller;
+}
