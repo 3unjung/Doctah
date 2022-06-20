@@ -217,8 +217,9 @@
             </table>
         </div>
 
+        
         <!-- Probably a picture another time -->
-        <!-- <img src="" alt=""> -->
+        <img class="img-fluid" src="bibliothécaire.jpg" alt="Modèle Conceptuel des Données de l'exercice de la Bibbliothécaire">
     </div>
 
 </body>
