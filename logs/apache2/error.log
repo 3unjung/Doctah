@@ -4,3 +4,5 @@ AH00558: apache2: Could not reliably determine the server's fully qualified doma
 AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
 [Mon Jun 20 07:45:21.135034 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.0.10 configured -- resuming normal operations
 [Mon Jun 20 07:45:21.135244 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jun 20 11:19:10.591505 2022] [autoindex:error] [pid 22] [client 172.18.0.1:56972] AH01276: Cannot serve directory /var/www/html/projets/Fil Rouge/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://127.0.0.1:81/
+[Mon Jun 20 14:06:24.632273 2022] [autoindex:error] [pid 19] [client 172.18.0.1:56984] AH01276: Cannot serve directory /var/www/html/projets/Fil Rouge/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive, referer: http://127.0.0.1:81/
