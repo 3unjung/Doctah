@@ -16,9 +16,8 @@
 <body>
     <div class="container">
         <div class="row">
-            <div class="text-center">
-                <? // echo "nothing is happening here" ?>
-            </div>
+            
+            <br>
 
             <table class="table table-bordered">
                 <thead class="thead-quimarchepas">
@@ -220,6 +219,13 @@
         
         <!-- Probably a picture another time -->
         <img class="img-fluid" src="bibliothécaire.jpg" alt="Modèle Conceptuel des Données de l'exercice de la Bibbliothécaire">
+
+        <br>
+        
+        <!-- Redirect to another page -->
+        <button onclick="window.location.href = 'mdp.php'" type="button" class="btn btn-link">Exercice 2: Réalisation du modèle physique</button>
+
+
     </div>
 
 </body>
